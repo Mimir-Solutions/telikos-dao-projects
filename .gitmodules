@@ -1,0 +1,3 @@
+[submodule "renascent"]
+	path = renascent
+	url = git@github.com:Mimir-Solutions/renascent.git
